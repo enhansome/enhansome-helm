@@ -47,8 +47,8 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Elastic](https://github.com/elastic/helm-charts/) ⚠️ Archived - Official helm charts for [Elatic.co](https://www.elastic.co/)'s open source products (ElasticSearch, Kibana & filebeat)
 * [Harbor](https://github.com/goharbor/harbor-helm) ⭐ 1,510 | 🐛 73 | 🌐 Mustache | 📅 2026-08-03 - Harbor is a container and Helm registry with built-in security
 * [OpenStack](https://github.com/openstack/openstack-helm) ⭐ 573 | 🐛 0 | 🌐 Shell | 📅 2026-08-11 - various charts by the OpenStack project
-* [Mocktail](https://github.com/Huseyinnurbaki/mocktail) ⭐ 245 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-10 - Helm chart for deploying the free, tiny mock api server Mocktail
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-13 - AI-powered multi-cluster Kubernetes management console with built-in Helm chart for one-command deployment
+* [Mocktail](https://github.com/Huseyinnurbaki/mocktail) ⭐ 245 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-13 - Helm chart for deploying the free, tiny mock api server Mocktail
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-13 - AI-powered multi-cluster Kubernetes management console with built-in Helm chart for one-command deployment
 * [Bitwarden](https://github.com/cdwv/bitwarden-k8s) ⭐ 96 | 🐛 6 | 🌐 Mustache | 📅 2025-01-23 - Helm chart for deploying bitwarden-rs - unofficial Bitwarden-compatible server
 * [Lenses](https://github.com/Landoop/kafka-helm-charts) ⚠️ Archived - charts for Lenses, Apache Kafka, Kafka Connect and other components for data streaming and data integration
 * [Fn Project](https://github.com/fnproject/fn-helm) ⭐ 59 | 🐛 10 | 🌐 Smarty | 📅 2019-03-20 - Fn serverless platform charts
@@ -92,12 +92,12 @@ Helm-related tools
 * [Helmify](https://github.com/arttor/helmify) ⭐ 1,743 | 🐛 56 | 🌐 Go | 📅 2026-05-07 - Generates a Helm chart from Kubernetes yamls
 * [Helmsman](https://github.com/Praqma/helmsman) ⭐ 1,495 | 🐛 2 | 🌐 Go | 📅 2026-07-26 - Helmsman provides a declarative way of installing charts, features terraform-like desired state file approach and security enhancements
 * [Monocular](https://github.com/helm/monocular) ⚠️ Archived - A web-based application that enables the search and discovery of charts from multiple Helm Chart repositories
-* [Chart Releaser](https://github.com/helm/chart-releaser) ⭐ 783 | 🐛 65 | 🌐 Go | 📅 2026-07-27 - Helps Turn GitHub Repositories into Helm Chart Repositories
+* [Chart Releaser](https://github.com/helm/chart-releaser) ⭐ 783 | 🐛 66 | 🌐 Go | 📅 2026-07-27 - Helps Turn GitHub Repositories into Helm Chart Repositories
 * [Ship](https://github.com/replicatedhq/ship) ⚠️ Archived - A tool that makes it easy to watch and apply updates to Helm charts and integrates [Kustomize](https://kustomize.io) patches and overlays
 * [Reckoner](https://github.com/FairwindsOps/reckoner) ⭐ 354 | 🐛 12 | 🌐 Go | 📅 2026-08-11 - Reckoner is a tool to simplify management and installation of multiple Helm chart releases
 * [Kubesafe](https://github.com/Telemaco019/kubesafe) ⭐ 333 | 🐛 0 | 🌐 Go | 📅 2026-08-09 - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands.
 * [Readme Generator](https://github.com/bitnami-labs/readme-generator-for-helm) ⭐ 311 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-07 - Autogenerate Helm Charts READMEs' tables based on values YAML file metadata.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-13 - Multi-cluster Kubernetes dashboard with Helm chart deployment, deployed via its own Helm chart for easy installation
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-13 - Multi-cluster Kubernetes dashboard with Helm chart deployment, deployed via its own Helm chart for easy installation
 * [Helm-Starter-Istio](https://github.com/salesforce/helm-starter-istio) ⭐ 92 | 🐛 3 | 🌐 Shell | 📅 2026-06-02 - A helm starter for creating [Istio](https://istio.io/) managed services
 * [Helm Broker](https://github.com/kyma-project/helm-broker) ⚠️ Archived - A Service Broker which exposes Helm charts as Service Classes in the [Service Catalog](https://svc-cat.io/)
 * [Chart Viewer](https://github.com/ecojuntak/chart-viewer) ⭐ 18 | 🐛 2 | 🌐 Go | 📅 2023-10-23 - Helps you inspect and compare chart template and also rendered manifest
