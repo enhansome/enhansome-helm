@@ -14,7 +14,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15413
+            "stars": 15410
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15413
+            "stars": 15410
           }
         }
       ],
@@ -48,7 +48,7 @@
             "last_commit": "2021-09-11T10:00:37Z",
             "owner": "zalando",
             "repo": "zalenium",
-            "stars": 2364
+            "stars": 2363
           }
         },
         {
@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-11T23:10:12Z",
+            "last_commit": "2026-08-13T23:10:29Z",
             "owner": "openstack",
             "repo": "openstack-helm",
             "stars": 573
@@ -100,8 +100,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-13T05:10:35Z",
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:35:21Z",
             "owner": "Huseyinnurbaki",
             "repo": "mocktail",
             "stars": 245
@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T06:15:46Z",
+            "last_commit": "2026-08-14T06:19:33Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -211,10 +211,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-07T19:11:17Z",
+            "last_commit": "2026-08-14T06:59:16Z",
             "owner": "jkroepke",
             "repo": "helm-secrets",
-            "stars": 2022
+            "stars": 2023
           }
         },
         {
@@ -267,7 +267,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T13:08:23Z",
+            "last_commit": "2026-08-13T19:49:42Z",
             "owner": "hayorov",
             "repo": "helm-gcs",
             "stars": 284
@@ -514,7 +514,7 @@
             "last_commit": "2023-04-27T03:45:59Z",
             "owner": "roboll",
             "repo": "helmfile",
-            "stars": 4036
+            "stars": 4035
           }
         },
         {
@@ -651,7 +651,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-07T21:12:46Z",
+            "last_commit": "2026-08-13T16:38:21Z",
             "owner": "bitnami",
             "repo": "readme-generator-for-helm",
             "stars": 311
@@ -665,7 +665,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T06:15:46Z",
+            "last_commit": "2026-08-14T06:19:33Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -808,7 +808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:20:11.256Z",
+    "last_updated": "2026-08-14T07:17:54.235Z",
     "original_repository": "cdwv/awesome-helm",
     "original_repository_sha": "cf8b80c6247790ab56366cc1b78a3216082869e4",
     "enhanced_repository": "enhansome/enhansome-helm",
