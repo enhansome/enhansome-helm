@@ -14,7 +14,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15410
+            "stars": 15409
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15410
+            "stars": 15409
           }
         }
       ],
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-15T04:27:40Z",
             "owner": "Huseyinnurbaki",
             "repo": "mocktail",
-            "stars": 250
+            "stars": 268
           }
         },
         {
@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T05:45:36Z",
+            "last_commit": "2026-08-16T06:00:00Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -623,7 +623,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T07:48:04Z",
+            "last_commit": "2026-08-16T03:36:16Z",
             "owner": "FairwindsOps",
             "repo": "reckoner",
             "stars": 354
@@ -665,10 +665,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T05:45:36Z",
+            "last_commit": "2026-08-16T06:00:00Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -808,7 +808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:30:15.702Z",
+    "last_updated": "2026-08-16T06:32:08.818Z",
     "original_repository": "cdwv/awesome-helm",
     "original_repository_sha": "cf8b80c6247790ab56366cc1b78a3216082869e4",
     "enhanced_repository": "enhansome/enhansome-helm",
