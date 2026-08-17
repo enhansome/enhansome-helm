@@ -48,7 +48,7 @@
             "last_commit": "2021-09-11T10:00:37Z",
             "owner": "zalando",
             "repo": "zalenium",
-            "stars": 2363
+            "stars": 2362
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-03T09:18:59Z",
             "owner": "goharbor",
             "repo": "harbor-helm",
-            "stars": 1510
+            "stars": 1509
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-15T04:27:40Z",
             "owner": "Huseyinnurbaki",
             "repo": "mocktail",
-            "stars": 268
+            "stars": 270
           }
         },
         {
@@ -115,7 +115,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T06:00:00Z",
+            "last_commit": "2026-08-17T06:08:24Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -197,10 +197,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T23:46:02Z",
+            "last_commit": "2026-08-17T01:32:52Z",
             "owner": "databus23",
             "repo": "helm-diff",
-            "stars": 3481
+            "stars": 3480
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-08-14T19:07:22Z",
             "owner": "jkroepke",
             "repo": "helm-secrets",
-            "stars": 2023
+            "stars": 2024
           }
         },
         {
@@ -281,10 +281,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T04:54:01Z",
+            "last_commit": "2026-08-17T05:47:45Z",
             "owner": "dadav",
             "repo": "helm-schema",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -368,7 +368,7 @@
             "last_commit": "2026-07-22T09:04:03Z",
             "owner": "vmware-labs",
             "repo": "distribution-tooling-for-helm",
-            "stars": 106
+            "stars": 108
           }
         },
         {
@@ -567,7 +567,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-26T21:38:06Z",
+            "last_commit": "2026-08-16T19:15:58Z",
             "owner": "mkubaczyk",
             "repo": "helmsman",
             "stars": 1495
@@ -598,7 +598,7 @@
             "last_commit": "2026-07-27T09:35:41Z",
             "owner": "helm",
             "repo": "chart-releaser",
-            "stars": 783
+            "stars": 784
           }
         },
         {
@@ -665,7 +665,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T06:00:00Z",
+            "last_commit": "2026-08-17T06:08:24Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -808,7 +808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:32:08.818Z",
+    "last_updated": "2026-08-17T06:44:03.217Z",
     "original_repository": "cdwv/awesome-helm",
     "original_repository_sha": "cf8b80c6247790ab56366cc1b78a3216082869e4",
     "enhanced_repository": "enhansome/enhansome-helm",
