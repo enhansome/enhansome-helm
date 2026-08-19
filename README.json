@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Official Kubernetes Helm repositories",
+      "description": "Official Kubernetes Helm repositories\n3rd party repositories / hubs",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46806184,
             "language": "Go",
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46806184,
             "language": "Go",
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 69958211,
             "language": "Java",
             "last_commit": "2021-09-11T10:00:37Z",
             "owner": "zalando",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 157246127,
             "language": "Python",
             "last_commit": "2023-04-24T18:01:01Z",
             "owner": "elastic",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145411897,
             "language": "Mustache",
             "last_commit": "2026-08-03T09:18:59Z",
             "owner": "goharbor",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87913000,
             "language": "Shell",
             "last_commit": "2026-08-18T22:03:24Z",
             "owner": "openstack",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258341966,
             "language": "TypeScript",
             "last_commit": "2026-08-15T04:27:40Z",
             "owner": "Huseyinnurbaki",
@@ -114,8 +121,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:30:02Z",
+            "last_commit": "2026-08-19T11:48:09Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160492570,
             "language": "Mustache",
             "last_commit": "2025-01-23T11:40:16Z",
             "owner": "cdwv",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77448433,
             "language": "Smarty",
             "last_commit": "2020-08-02T16:39:13Z",
             "owner": "lensesio",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111824495,
             "language": "Smarty",
             "last_commit": "2019-03-20T09:45:34Z",
             "owner": "fnproject",
@@ -170,24 +181,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136283539,
             "language": "Smarty",
             "last_commit": "2020-09-19T19:54:13Z",
             "owner": "cdwv",
             "repo": "efk-stack-helm",
             "stars": 57
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Ingero",
-          "description": "eBPF-based GPU causal observability agent. Helm chart deploys as DaemonSet with RBAC, traces CUDA APIs and host kernel events to explain GPU latency.",
-          "children": []
         }
       ],
       "title": "Application repositories"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -196,8 +202,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83623770,
             "language": "Go",
-            "last_commit": "2026-08-19T04:51:48Z",
+            "last_commit": "2026-08-19T09:51:19Z",
             "owner": "databus23",
             "repo": "helm-diff",
             "stars": 3482
@@ -210,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156066420,
             "language": "Shell",
             "last_commit": "2026-08-18T06:52:37Z",
             "owner": "jkroepke",
@@ -224,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112146910,
             "language": "Go",
             "last_commit": "2026-08-17T22:03:40Z",
             "owner": "helm-unittest",
@@ -238,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105292823,
             "language": "Go",
             "last_commit": "2026-08-02T07:22:38Z",
             "owner": "hypnoglow",
@@ -252,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117699828,
             "language": "Go",
             "last_commit": "2023-09-05T10:42:21Z",
             "owner": "ContainerSolutions",
@@ -266,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109006561,
             "language": "Go",
             "last_commit": "2026-08-13T19:49:42Z",
             "owner": "hayorov",
@@ -280,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 678563035,
             "language": "Go",
             "last_commit": "2026-08-17T05:47:45Z",
             "owner": "dadav",
@@ -294,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 588163497,
             "language": "Go",
             "last_commit": "2025-11-09T06:58:52Z",
             "owner": "tuunit",
@@ -308,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 221866986,
             "language": "Shell",
             "last_commit": "2021-07-08T05:52:10Z",
             "owner": "karuppiah7890",
@@ -322,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 888932524,
             "language": "Go",
             "last_commit": "2025-10-21T06:17:23Z",
             "owner": "idsulik",
@@ -336,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367815996,
             "language": "Shell",
             "last_commit": "2024-06-20T10:49:23Z",
             "owner": "datreeio",
@@ -350,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 510344774,
             "language": "Shell",
             "last_commit": "2026-03-29T15:24:57Z",
             "owner": "JovianX",
@@ -364,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671151851,
             "language": "Go",
             "last_commit": "2026-07-22T09:04:03Z",
             "owner": "vmware-labs",
@@ -378,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 465266495,
             "language": "Go",
             "last_commit": "2022-11-14T17:37:27Z",
             "owner": "tellerops",
@@ -392,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200671081,
             "language": "Shell",
             "last_commit": "2026-06-02T18:05:49Z",
             "owner": "salesforce",
@@ -406,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 862969066,
             "language": "Go",
             "last_commit": "2026-08-06T22:35:47Z",
             "owner": "meshery-extensions",
@@ -420,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122268515,
             "language": "Shell",
             "last_commit": "2018-09-11T02:54:39Z",
             "owner": "adamreese",
@@ -434,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86370390,
             "language": "Shell",
             "last_commit": "2022-01-19T18:44:27Z",
             "owner": "adamreese",
@@ -448,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86369574,
             "language": "Shell",
             "last_commit": "2018-02-27T06:01:11Z",
             "owner": "adamreese",
@@ -462,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288551084,
             "language": "JavaScript",
             "last_commit": "2023-07-25T19:11:45Z",
             "owner": "web-seven",
@@ -476,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86369334,
             "language": "Makefile",
             "last_commit": "2018-08-02T12:55:17Z",
             "owner": "adamreese",
@@ -490,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242688921,
             "language": "Go",
             "last_commit": "2022-02-09T10:18:51Z",
             "owner": "C123R",
@@ -510,11 +538,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74499101,
             "language": "Go",
             "last_commit": "2023-04-27T03:45:59Z",
             "owner": "roboll",
             "repo": "helmfile",
-            "stars": 4034
+            "stars": 4033
           }
         },
         {
@@ -524,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108049853,
             "language": "Go",
             "last_commit": "2023-03-07T03:41:43Z",
             "owner": "brigadecore",
@@ -538,11 +568,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147009717,
             "language": "Go",
             "last_commit": "2026-06-22T09:25:43Z",
             "owner": "norwoodj",
             "repo": "helm-docs",
-            "stars": 1758
+            "stars": 1761
           }
         },
         {
@@ -552,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 391663444,
             "language": "Go",
             "last_commit": "2026-05-07T07:38:16Z",
             "owner": "arttor",
@@ -566,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109309047,
             "language": "Go",
             "last_commit": "2026-08-16T19:15:58Z",
             "owner": "mkubaczyk",
@@ -580,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 66493660,
             "language": "Go",
             "last_commit": "2021-06-21T17:29:36Z",
             "owner": "helm",
@@ -594,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144605653,
             "language": "Go",
             "last_commit": "2026-08-17T09:27:28Z",
             "owner": "helm",
@@ -608,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 126047712,
             "language": "Go",
             "last_commit": "2023-03-20T19:55:30Z",
             "owner": "replicatedhq",
@@ -622,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159374996,
             "language": "Go",
             "last_commit": "2026-08-16T03:36:16Z",
             "owner": "FairwindsOps",
@@ -636,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 848427756,
             "language": "Go",
             "last_commit": "2026-08-09T08:38:51Z",
             "owner": "Telemaco019",
@@ -650,6 +688,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342210188,
             "language": "JavaScript",
             "last_commit": "2026-08-17T21:13:04Z",
             "owner": "bitnami",
@@ -664,8 +703,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:30:02Z",
+            "last_commit": "2026-08-19T11:48:09Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -678,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200676083,
             "language": "Shell",
             "last_commit": "2026-06-02T18:05:54Z",
             "owner": "salesforce",
@@ -692,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 200802308,
             "language": "Go",
             "last_commit": "2022-06-13T07:19:10Z",
             "owner": "SAP-archive",
@@ -706,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296314210,
             "language": "Go",
             "last_commit": "2023-10-23T02:13:56Z",
             "owner": "ecojuntak",
@@ -720,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1194888560,
             "language": "Go",
             "last_commit": "2026-04-01T14:53:58Z",
             "owner": "kube-foundry",
@@ -734,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1161232058,
             "language": "Go",
             "last_commit": "2026-05-06T07:36:28Z",
             "owner": "dormstern",
@@ -748,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1215089312,
             "language": "Shell",
             "last_commit": "2026-08-18T07:34:06Z",
             "owner": "Qovery",
@@ -768,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112638589,
             "language": "Go",
             "last_commit": "2026-08-13T02:13:17Z",
             "owner": "helm",
@@ -782,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112146910,
             "language": "Go",
             "last_commit": "2026-08-17T22:03:40Z",
             "owner": "helm-unittest",
@@ -796,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 667685098,
             "language": "Go",
             "last_commit": "2026-08-03T22:06:52Z",
             "owner": "jlandowner",
@@ -808,8 +857,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:36:45.013Z",
+    "last_updated": "2026-08-19T12:32:30.288Z",
     "original_repository": "cdwv/awesome-helm",
+    "original_repository_id": 132810604,
     "original_repository_sha": "cf8b80c6247790ab56366cc1b78a3216082869e4",
     "enhanced_repository": "enhansome/enhansome-helm",
     "enhanced_repository_description": null,
