@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-17T20:58:58Z",
+            "last_commit": "2026-08-18T22:03:24Z",
             "owner": "openstack",
             "repo": "openstack-helm",
             "stars": 574
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-15T04:27:40Z",
             "owner": "Huseyinnurbaki",
             "repo": "mocktail",
-            "stars": 272
+            "stars": 274
           }
         },
         {
@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T06:31:43Z",
+            "last_commit": "2026-08-19T06:30:02Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 128
+            "stars": 127
           }
         },
         {
@@ -197,10 +197,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T01:32:52Z",
+            "last_commit": "2026-08-19T04:51:48Z",
             "owner": "databus23",
             "repo": "helm-diff",
-            "stars": 3481
+            "stars": 3482
           }
         },
         {
@@ -211,10 +211,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-14T19:07:22Z",
+            "last_commit": "2026-08-18T06:52:37Z",
             "owner": "jkroepke",
             "repo": "helm-secrets",
-            "stars": 2024
+            "stars": 2025
           }
         },
         {
@@ -368,7 +368,7 @@
             "last_commit": "2026-07-22T09:04:03Z",
             "owner": "vmware-labs",
             "repo": "distribution-tooling-for-helm",
-            "stars": 110
+            "stars": 109
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2023-03-07T03:41:43Z",
             "owner": "brigadecore",
             "repo": "brigade",
-            "stars": 2412
+            "stars": 2413
           }
         },
         {
@@ -665,10 +665,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T06:31:43Z",
+            "last_commit": "2026-08-19T06:30:02Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 128
+            "stars": 127
           }
         },
         {
@@ -749,7 +749,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-18T06:00:36Z",
+            "last_commit": "2026-08-18T07:34:06Z",
             "owner": "Qovery",
             "repo": "qovery-skills",
             "stars": 9
@@ -808,7 +808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T06:35:27.635Z",
+    "last_updated": "2026-08-19T06:36:45.013Z",
     "original_repository": "cdwv/awesome-helm",
     "original_repository_sha": "cf8b80c6247790ab56366cc1b78a3216082869e4",
     "enhanced_repository": "enhansome/enhansome-helm",
