@@ -15,7 +15,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15408
+            "stars": 15407
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15408
+            "stars": 15407
           }
         }
       ],
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 258341966,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T04:27:40Z",
+            "last_commit": "2026-08-20T05:14:51Z",
             "owner": "Huseyinnurbaki",
             "repo": "mocktail",
             "stars": 274
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:48:09Z",
+            "last_commit": "2026-08-20T05:47:11Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 83623770,
             "language": "Go",
-            "last_commit": "2026-08-19T09:51:19Z",
+            "last_commit": "2026-08-19T13:30:30Z",
             "owner": "databus23",
             "repo": "helm-diff",
             "stars": 3482
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 109006561,
             "language": "Go",
-            "last_commit": "2026-08-13T19:49:42Z",
+            "last_commit": "2026-08-19T16:43:12Z",
             "owner": "hayorov",
             "repo": "helm-gcs",
             "stars": 284
@@ -297,7 +297,7 @@
             "last_commit": "2026-08-17T05:47:45Z",
             "owner": "dadav",
             "repo": "helm-schema",
-            "stars": 280
+            "stars": 281
           }
         },
         {
@@ -705,7 +705,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:48:09Z",
+            "last_commit": "2026-08-20T05:47:11Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:30.288Z",
+    "last_updated": "2026-08-20T06:38:16.974Z",
     "original_repository": "cdwv/awesome-helm",
     "original_repository_id": 132810604,
     "original_repository_sha": "cf8b80c6247790ab56366cc1b78a3216082869e4",
