@@ -15,7 +15,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15406
+            "stars": 15405
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15406
+            "stars": 15405
           }
         }
       ],
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T05:48:39Z",
+            "last_commit": "2026-08-22T05:47:32Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 156066420,
             "language": "Shell",
-            "last_commit": "2026-08-21T06:23:36Z",
+            "last_commit": "2026-08-21T19:25:08Z",
             "owner": "jkroepke",
             "repo": "helm-secrets",
-            "stars": 2025
+            "stars": 2026
           }
         },
         {
@@ -660,7 +660,7 @@
             "archived": false,
             "id": 159374996,
             "language": "Go",
-            "last_commit": "2026-08-16T03:36:16Z",
+            "last_commit": "2026-08-21T08:12:37Z",
             "owner": "FairwindsOps",
             "repo": "reckoner",
             "stars": 354
@@ -705,7 +705,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T05:48:39Z",
+            "last_commit": "2026-08-22T05:47:32Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -795,7 +795,7 @@
             "archived": false,
             "id": 1215089312,
             "language": "Shell",
-            "last_commit": "2026-08-18T07:34:06Z",
+            "last_commit": "2026-08-21T14:18:59Z",
             "owner": "Qovery",
             "repo": "qovery-skills",
             "stars": 9
@@ -846,7 +846,7 @@
             "archived": false,
             "id": 667685098,
             "language": "Go",
-            "last_commit": "2026-08-21T00:03:11Z",
+            "last_commit": "2026-08-21T19:02:54Z",
             "owner": "jlandowner",
             "repo": "helm-chartsnap",
             "stars": 111
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T06:38:34.807Z",
+    "last_updated": "2026-08-22T06:32:27.058Z",
     "original_repository": "cdwv/awesome-helm",
     "original_repository_id": 132810604,
     "original_repository_sha": "cf8b80c6247790ab56366cc1b78a3216082869e4",
