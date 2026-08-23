@@ -81,7 +81,7 @@
             "last_commit": "2026-08-03T09:18:59Z",
             "owner": "goharbor",
             "repo": "harbor-helm",
-            "stars": 1510
+            "stars": 1511
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-20T05:14:51Z",
             "owner": "Huseyinnurbaki",
             "repo": "mocktail",
-            "stars": 274
+            "stars": 275
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T05:47:32Z",
+            "last_commit": "2026-08-23T05:50:32Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -558,7 +558,7 @@
             "last_commit": "2023-03-07T03:41:43Z",
             "owner": "brigadecore",
             "repo": "brigade",
-            "stars": 2413
+            "stars": 2414
           }
         },
         {
@@ -705,7 +705,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T05:47:32Z",
+            "last_commit": "2026-08-23T05:50:32Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T06:32:27.058Z",
+    "last_updated": "2026-08-23T06:33:21.660Z",
     "original_repository": "cdwv/awesome-helm",
     "original_repository_id": 132810604,
     "original_repository_sha": "cf8b80c6247790ab56366cc1b78a3216082869e4",
