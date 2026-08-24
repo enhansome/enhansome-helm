@@ -51,7 +51,7 @@
             "last_commit": "2021-09-11T10:00:37Z",
             "owner": "zalando",
             "repo": "zalenium",
-            "stars": 2362
+            "stars": 2363
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T05:50:32Z",
+            "last_commit": "2026-08-24T05:51:45Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 83623770,
             "language": "Go",
-            "last_commit": "2026-08-19T13:30:30Z",
+            "last_commit": "2026-08-24T05:20:42Z",
             "owner": "databus23",
             "repo": "helm-diff",
             "stars": 3482
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 105292823,
             "language": "Go",
-            "last_commit": "2026-08-02T07:22:38Z",
+            "last_commit": "2026-08-23T07:22:38Z",
             "owner": "hypnoglow",
             "repo": "helm-s3",
             "stars": 614
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 678563035,
             "language": "Go",
-            "last_commit": "2026-08-17T05:47:45Z",
+            "last_commit": "2026-08-24T06:12:27Z",
             "owner": "dadav",
             "repo": "helm-schema",
             "stars": 281
@@ -600,7 +600,7 @@
             "archived": false,
             "id": 109309047,
             "language": "Go",
-            "last_commit": "2026-08-16T19:15:58Z",
+            "last_commit": "2026-08-23T18:09:15Z",
             "owner": "mkubaczyk",
             "repo": "helmsman",
             "stars": 1495
@@ -705,7 +705,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T05:50:32Z",
+            "last_commit": "2026-08-24T05:51:45Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T06:33:21.660Z",
+    "last_updated": "2026-08-24T06:48:52.555Z",
     "original_repository": "cdwv/awesome-helm",
     "original_repository_id": 132810604,
     "original_repository_sha": "cf8b80c6247790ab56366cc1b78a3216082869e4",
