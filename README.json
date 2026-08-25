@@ -15,7 +15,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15405
+            "stars": 15406
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2022-02-20T14:09:39Z",
             "owner": "helm",
             "repo": "charts",
-            "stars": 15405
+            "stars": 15406
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2021-09-11T10:00:37Z",
             "owner": "zalando",
             "repo": "zalenium",
-            "stars": 2363
+            "stars": 2362
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2023-04-24T18:01:01Z",
             "owner": "elastic",
             "repo": "helm-charts",
-            "stars": 1914
+            "stars": 1915
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-03T09:18:59Z",
             "owner": "goharbor",
             "repo": "harbor-helm",
-            "stars": 1511
+            "stars": 1512
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:52:39Z",
+            "last_commit": "2026-08-25T06:04:57Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -234,7 +234,7 @@
             "archived": false,
             "id": 112146910,
             "language": "Go",
-            "last_commit": "2026-08-20T22:03:13Z",
+            "last_commit": "2026-08-24T22:03:54Z",
             "owner": "helm-unittest",
             "repo": "helm-unittest",
             "stars": 1384
@@ -558,7 +558,7 @@
             "last_commit": "2023-03-07T03:41:43Z",
             "owner": "brigadecore",
             "repo": "brigade",
-            "stars": 2414
+            "stars": 2416
           }
         },
         {
@@ -705,7 +705,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:52:39Z",
+            "last_commit": "2026-08-25T06:04:57Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -816,7 +816,7 @@
             "archived": false,
             "id": 112638589,
             "language": "Go",
-            "last_commit": "2026-08-13T02:13:17Z",
+            "last_commit": "2026-08-24T23:03:37Z",
             "owner": "helm",
             "repo": "chart-testing",
             "stars": 1639
@@ -831,7 +831,7 @@
             "archived": false,
             "id": 112146910,
             "language": "Go",
-            "last_commit": "2026-08-20T22:03:13Z",
+            "last_commit": "2026-08-24T22:03:54Z",
             "owner": "helm-unittest",
             "repo": "helm-unittest",
             "stars": 1384
@@ -846,7 +846,7 @@
             "archived": false,
             "id": 667685098,
             "language": "Go",
-            "last_commit": "2026-08-21T19:02:54Z",
+            "last_commit": "2026-08-24T22:18:17Z",
             "owner": "jlandowner",
             "repo": "helm-chartsnap",
             "stars": 111
@@ -857,7 +857,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:05.409Z",
+    "last_updated": "2026-08-25T06:07:24.857Z",
     "original_repository": "cdwv/awesome-helm",
     "original_repository_id": 132810604,
     "original_repository_sha": "cf8b80c6247790ab56366cc1b78a3216082869e4",
