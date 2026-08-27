@@ -93,7 +93,7 @@
             "archived": false,
             "id": 87913000,
             "language": "Shell",
-            "last_commit": "2026-08-25T18:57:01Z",
+            "last_commit": "2026-08-26T14:45:34Z",
             "owner": "openstack",
             "repo": "openstack-helm",
             "stars": 574
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T06:00:38Z",
+            "last_commit": "2026-08-27T11:09:43Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 109006561,
             "language": "Go",
-            "last_commit": "2026-08-25T21:13:14Z",
+            "last_commit": "2026-08-26T21:38:33Z",
             "owner": "hayorov",
             "repo": "helm-gcs",
             "stars": 284
@@ -372,7 +372,7 @@
             "last_commit": "2026-03-29T15:24:57Z",
             "owner": "JovianX",
             "repo": "helm-release-plugin",
-            "stars": 111
+            "stars": 112
           }
         },
         {
@@ -600,7 +600,7 @@
             "archived": false,
             "id": 109309047,
             "language": "Go",
-            "last_commit": "2026-08-23T18:09:15Z",
+            "last_commit": "2026-08-26T18:38:36Z",
             "owner": "mkubaczyk",
             "repo": "helmsman",
             "stars": 1495
@@ -705,10 +705,10 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T06:00:38Z",
+            "last_commit": "2026-08-27T11:09:43Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -857,9 +857,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:40:06.334Z",
-    "original_repository": "cdwv/awesome-helm",
-    "original_repository_id": 132810604,
+    "last_updated": "2026-08-27T11:45:57.133Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 132810604,
+      "language": null,
+      "last_commit": "2026-05-16T21:05:30Z",
+      "owner": "cdwv",
+      "repo": "awesome-helm",
+      "stars": 1111
+    },
     "original_repository_sha": "cf8b80c6247790ab56366cc1b78a3216082869e4",
     "enhanced_repository": "enhansome/enhansome-helm",
     "enhanced_repository_description": null,
