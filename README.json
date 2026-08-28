@@ -16,7 +16,8 @@
             "owner": "helm",
             "repo": "charts",
             "stars": 15406
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "helm",
             "repo": "charts",
             "stars": 15406
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         }
       ],
       "title": "Repositories / hubs"
@@ -51,8 +53,9 @@
             "last_commit": "2021-09-11T10:00:37Z",
             "owner": "zalando",
             "repo": "zalenium",
-            "stars": 2362
-          }
+            "stars": 2361
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "elastic",
             "repo": "helm-charts",
             "stars": 1915
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-03T09:18:59Z",
             "owner": "goharbor",
             "repo": "harbor-helm",
-            "stars": 1512
-          }
+            "stars": 1513
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 87913000,
             "language": "Shell",
-            "last_commit": "2026-08-26T14:45:34Z",
+            "last_commit": "2026-08-28T06:23:17Z",
             "owner": "openstack",
             "repo": "openstack-helm",
             "stars": 574
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "Huseyinnurbaki",
             "repo": "mocktail",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:01:16Z",
+            "last_commit": "2026-08-28T18:07:57Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "cdwv",
             "repo": "bitwarden-k8s",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "lensesio",
             "repo": "kafka-helm-charts",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "fnproject",
             "repo": "fn-helm",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "cdwv",
             "repo": "efk-stack-helm",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         }
       ],
       "title": "Application repositories"
@@ -204,11 +216,12 @@
             "archived": false,
             "id": 83623770,
             "language": "Go",
-            "last_commit": "2026-08-24T14:12:22Z",
+            "last_commit": "2026-08-27T23:02:04Z",
             "owner": "databus23",
             "repo": "helm-diff",
             "stars": 3484
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -219,11 +232,12 @@
             "archived": false,
             "id": 156066420,
             "language": "Shell",
-            "last_commit": "2026-08-21T19:25:08Z",
+            "last_commit": "2026-08-28T12:47:00Z",
             "owner": "jkroepke",
             "repo": "helm-secrets",
             "stars": 2025
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -237,8 +251,9 @@
             "last_commit": "2026-08-24T22:03:54Z",
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1386
-          }
+            "stars": 1388
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "hypnoglow",
             "repo": "helm-s3",
             "stars": 614
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "ContainerSolutions",
             "repo": "helm-monitor",
             "stars": 420
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -279,11 +296,12 @@
             "archived": false,
             "id": 109006561,
             "language": "Go",
-            "last_commit": "2026-08-26T21:38:33Z",
+            "last_commit": "2026-08-28T17:37:32Z",
             "owner": "hayorov",
             "repo": "helm-gcs",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "dadav",
             "repo": "helm-schema",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "tuunit",
             "repo": "helm-compose",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "karuppiah7890",
             "repo": "helm-schema-gen",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "idsulik",
             "repo": "helm-cel",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "datreeio",
             "repo": "helm-datree",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "JovianX",
             "repo": "helm-release-plugin",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "vmware-labs",
             "repo": "distribution-tooling-for-helm",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "tellerops",
             "repo": "helm-teller",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "salesforce",
             "repo": "helm-starter",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "meshery-extensions",
             "repo": "helm-kanvas-snapshot",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "adamreese",
             "repo": "helm-local",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "adamreese",
             "repo": "helm-env",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "adamreese",
             "repo": "helm-nuke",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "web-seven",
             "repo": "helm-github",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "adamreese",
             "repo": "helm-last",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "C123R",
             "repo": "helm-blob",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         }
       ],
       "title": "Plugins"
@@ -544,7 +578,8 @@
             "owner": "roboll",
             "repo": "helmfile",
             "stars": 4033
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "brigadecore",
             "repo": "brigade",
             "stars": 2416
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "norwoodj",
             "repo": "helm-docs",
             "stars": 1762
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "arttor",
             "repo": "helmify",
             "stars": 1743
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -604,7 +642,8 @@
             "owner": "mkubaczyk",
             "repo": "helmsman",
             "stars": 1495
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "helm",
             "repo": "monocular",
             "stars": 1408
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "helm",
             "repo": "chart-releaser",
             "stars": 784
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "replicatedhq",
             "repo": "ship",
             "stars": 635
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "FairwindsOps",
             "repo": "reckoner",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "Telemaco019",
             "repo": "kubesafe",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -690,11 +734,12 @@
             "archived": false,
             "id": 342210188,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T21:13:04Z",
+            "last_commit": "2026-08-28T10:37:28Z",
             "owner": "bitnami",
             "repo": "readme-generator-for-helm",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -705,11 +750,12 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:01:16Z",
+            "last_commit": "2026-08-28T18:07:57Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "salesforce",
             "repo": "helm-starter-istio",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "SAP-archive",
             "repo": "helm-broker",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "ecojuntak",
             "repo": "chart-viewer",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "kube-foundry",
             "repo": "kube-foundry",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "dormstern",
             "repo": "segspec",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -799,7 +850,8 @@
             "owner": "Qovery",
             "repo": "qovery-skills",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         }
       ],
       "title": "Tools, Extras"
@@ -820,7 +872,8 @@
             "owner": "helm",
             "repo": "chart-testing",
             "stars": 1639
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -834,8 +887,9 @@
             "last_commit": "2026-08-24T22:03:54Z",
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1386
-          }
+            "stars": 1388
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         },
         {
           "node_type": "item",
@@ -850,14 +904,15 @@
             "owner": "jlandowner",
             "repo": "helm-chartsnap",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T18:08:15.961Z"
         }
       ],
       "title": "Testing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:15:38.937Z",
+    "last_updated": "2026-08-28T18:08:15.961Z",
     "original_repository_info": {
       "archived": false,
       "id": 132810604,
