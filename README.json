@@ -197,11 +197,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:30:02Z",
-            "open_issues": 13,
+            "last_commit": "2026-08-29T11:32:22Z",
+            "open_issues": 9,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -490,8 +490,8 @@
             "id": 109006561,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-28T22:51:34Z",
-            "open_issues": 7,
+            "last_commit": "2026-08-29T10:26:49Z",
+            "open_issues": 8,
             "owner": "hayorov",
             "repo": "helm-gcs",
             "stars": 284,
@@ -1166,7 +1166,7 @@
             "id": 159374996,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-21T08:12:37Z",
+            "last_commit": "2026-08-29T06:57:25Z",
             "open_issues": 12,
             "owner": "FairwindsOps",
             "repo": "reckoner",
@@ -1242,11 +1242,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:30:02Z",
-            "open_issues": 13,
+            "last_commit": "2026-08-29T11:32:22Z",
+            "open_issues": 9,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:08.783Z",
+    "last_updated": "2026-08-29T12:11:32.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
