@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "⚠️(OBSOLETE) Curated applications for Kubernetes",
+            "homepage": null,
             "id": 46806184,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-20T14:09:39Z",
+            "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15406
+            "stars": 15406,
+            "topics": [
+              "charts",
+              "helm",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -26,12 +35,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "⚠️(OBSOLETE) Curated applications for Kubernetes",
+            "homepage": null,
             "id": 46806184,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-20T14:09:39Z",
+            "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15406
+            "stars": 15406,
+            "topics": [
+              "charts",
+              "helm",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         }
@@ -48,12 +66,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.",
+            "homepage": "https://opensource.zalando.com/zalenium/",
             "id": 69958211,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-11T10:00:37Z",
+            "open_issues": 36,
             "owner": "zalando",
             "repo": "zalenium",
-            "stars": 2361
+            "stars": 2361,
+            "topics": [
+              "browserstack",
+              "docker",
+              "docker-selenium",
+              "kubernetes",
+              "saucelabs",
+              "selenium",
+              "selenium-grid",
+              "testing",
+              "testingbot"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -64,12 +97,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "You know, for Kubernetes",
+            "homepage": null,
             "id": 157246127,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-24T18:01:01Z",
+            "open_issues": 76,
             "owner": "elastic",
             "repo": "helm-charts",
-            "stars": 1915
+            "stars": 1915,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -80,12 +118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The helm chart to deploy Harbor",
+            "homepage": null,
             "id": 145411897,
             "language": "Mustache",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T09:18:59Z",
+            "open_issues": 72,
             "owner": "goharbor",
             "repo": "harbor-helm",
-            "stars": 1513
+            "stars": 1512,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -96,12 +139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm charts for deploying OpenStack on Kubernetes. Mirror of code maintained at opendev.org.",
+            "homepage": "https://opendev.org/openstack/openstack-helm",
             "id": 87913000,
             "language": "Shell",
-            "last_commit": "2026-08-28T06:23:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:41:49Z",
+            "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-helm",
-            "stars": 574
+            "stars": 574,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -112,12 +160,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, 10.5MB, containerized, self-hosted mock server.",
+            "homepage": "https://getmocktail.com",
             "id": 258341966,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T05:14:51Z",
+            "open_issues": 20,
             "owner": "Huseyinnurbaki",
             "repo": "mocktail",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "docker",
+              "go",
+              "gofiber",
+              "json-server",
+              "kubernetes",
+              "mock",
+              "mock-api",
+              "mock-data",
+              "mock-server",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -128,12 +192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:07:57Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:30:02Z",
+            "open_issues": 13,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -144,12 +213,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm chart for deploying vaultwarden in Kubernetes",
+            "homepage": null,
             "id": 160492570,
             "language": "Mustache",
+            "license": null,
             "last_commit": "2025-01-23T11:40:16Z",
+            "open_issues": 6,
             "owner": "cdwv",
             "repo": "bitwarden-k8s",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "bitwarden",
+              "helm",
+              "helm-chart",
+              "k8s"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -160,12 +239,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "In-deprecation. For Lenses please check lensesio/lenses-helm-charts. Soon Stream Reactor will also get its own Helm repository.",
+            "homepage": "https://lenses.io",
             "id": 77448433,
             "language": "Smarty",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-02T16:39:13Z",
+            "open_issues": 7,
             "owner": "lensesio",
             "repo": "kafka-helm-charts",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "dataops",
+              "helm",
+              "kafka",
+              "kafka-connect",
+              "kubernetes",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -176,12 +267,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm Chart for Fn ",
+            "homepage": null,
             "id": 111824495,
             "language": "Smarty",
+            "license": "Apache-2.0",
             "last_commit": "2019-03-20T09:45:34Z",
+            "open_issues": 10,
             "owner": "fnproject",
             "repo": "fn-helm",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "faas",
+              "helm",
+              "kubernetes",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -192,12 +293,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm chart to deploy a working logging solution using the ElasticSearch - Fluentd - Kibana stack on Kubernetes",
+            "homepage": null,
             "id": 136283539,
             "language": "Smarty",
+            "license": null,
             "last_commit": "2020-09-19T19:54:13Z",
+            "open_issues": 4,
             "owner": "cdwv",
             "repo": "efk-stack-helm",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "efk",
+              "elasticsearch",
+              "fluentd",
+              "helm-charts",
+              "k8s",
+              "kibana",
+              "kubernetes",
+              "kubernetes-monitoring",
+              "logging"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         }
@@ -214,12 +330,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A helm plugin that shows a diff explaining what a helm upgrade would change",
+            "homepage": null,
             "id": 83623770,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T23:02:04Z",
+            "open_issues": 51,
             "owner": "databus23",
             "repo": "helm-diff",
-            "stars": 3484
+            "stars": 3484,
+            "topics": [
+              "charts",
+              "helm",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -230,12 +355,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A helm plugin that help manage secrets with Git workflow and store them anywhere",
+            "homepage": "https://github.com/jkroepke/helm-secrets/wiki",
             "id": 156066420,
             "language": "Shell",
-            "last_commit": "2026-08-28T12:47:00Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:46:17Z",
+            "open_issues": 1,
             "owner": "jkroepke",
             "repo": "helm-secrets",
-            "stars": 2025
+            "stars": 2025,
+            "topics": [
+              "argocd",
+              "decryption",
+              "encryption",
+              "encryption-tool",
+              "gpg",
+              "helm",
+              "helm-chart",
+              "helm-charts",
+              "helm-plugin",
+              "helm-plugins",
+              "k8s",
+              "kms",
+              "kubernetes",
+              "kubernetes-secrets",
+              "secret-management",
+              "secrets",
+              "secrets-management",
+              "secrets-stored",
+              "sops",
+              "vault"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -246,12 +397,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.",
+            "homepage": null,
             "id": 112146910,
             "language": "Go",
-            "last_commit": "2026-08-24T22:03:54Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:03:36Z",
+            "open_issues": 85,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1388
+            "stars": 1388,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2025",
+              "helm",
+              "helm-chart",
+              "helm-plugin",
+              "kubernetes",
+              "testing",
+              "unittest"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -262,12 +427,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⎈ Helm plugin that adds support for AWS S3 as a chart repository.",
+            "homepage": "https://helm-s3.hypnoglow.io",
             "id": 105292823,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-23T07:22:38Z",
+            "open_issues": 41,
             "owner": "hypnoglow",
             "repo": "helm-s3",
-            "stars": 614
+            "stars": 614,
+            "topics": [
+              "aws-s3",
+              "helm",
+              "helm-plugin",
+              "helm-plugins",
+              "helm-registry",
+              "kubernetes",
+              "minio",
+              "s3"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -278,12 +457,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor K8S Helm release, rollback on metrics behavior (Prometheus, Elasticsearch, Sentry)",
+            "homepage": null,
             "id": 117699828,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-09-05T10:42:21Z",
+            "open_issues": 13,
             "owner": "ContainerSolutions",
             "repo": "helm-monitor",
-            "stars": 420
+            "stars": 420,
+            "topics": [
+              "elasticsearch",
+              "helm",
+              "helm-plugin",
+              "kubernetes",
+              "prometheus",
+              "sentry"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -294,12 +485,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage Helm repositories on Google Cloud Storage 🔐 **privately**",
+            "homepage": null,
             "id": 109006561,
             "language": "Go",
-            "last_commit": "2026-08-28T17:37:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:51:34Z",
+            "open_issues": 7,
             "owner": "hayorov",
             "repo": "helm-gcs",
-            "stars": 284
+            "stars": 284,
+            "topics": [
+              "bucket",
+              "chart",
+              "gcs",
+              "google-cloud-storage",
+              "helm",
+              "helm-gcs",
+              "helm-plugin",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -310,12 +515,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate jsonschemas from helm charts.",
+            "homepage": null,
             "id": 678563035,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T21:12:51Z",
+            "open_issues": 11,
             "owner": "dadav",
             "repo": "helm-schema",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "hacktoberfest",
+              "helm",
+              "jsonschema"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -326,12 +540,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Helm Compose is a helm plugin for managing multiple releases of one or many charts within a single configuration file.",
+            "homepage": "https://tuunit.github.io/helm-compose/",
             "id": 588163497,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-09T06:58:52Z",
+            "open_issues": 0,
             "owner": "tuunit",
             "repo": "helm-compose",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "compose",
+              "helm",
+              "helm-plugin",
+              "helm-plugins",
+              "k8s",
+              "kubernetes",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -342,12 +569,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "So that you don't have to write values.schema.json by hand from scratch for your Helm 3 charts. [CURRENTLY NOT MAINTAINED]",
+            "homepage": null,
             "id": 221866986,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-07-08T05:52:10Z",
+            "open_issues": 9,
             "owner": "karuppiah7890",
             "repo": "helm-schema-gen",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "go",
+              "golang",
+              "hacktoberfest",
+              "helm",
+              "helm-plugin",
+              "helm-schema-gen",
+              "json-schema",
+              "k8s",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -358,12 +600,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml.",
+            "homepage": "https://pkg.go.dev/github.com/idsulik/helm-cel",
             "id": 888932524,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-10-21T06:17:23Z",
+            "open_issues": 0,
             "owner": "idsulik",
             "repo": "helm-cel",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "golang",
+              "helm",
+              "helm-plugin",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -374,12 +626,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Helm plugin to validate charts against the Datree's CLI tool",
+            "homepage": "https://hub.datree.io/integrations",
             "id": 367815996,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-06-20T10:49:23Z",
+            "open_issues": 2,
             "owner": "datreeio",
             "repo": "helm-datree",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "helm",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -390,12 +650,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm3 plugin that pulls(re-creates) helm Charts from deployed releases, and updates values of deployed releases without the chart.",
+            "homepage": null,
             "id": 510344774,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-29T15:24:57Z",
+            "open_issues": 12,
             "owner": "JovianX",
             "repo": "helm-release-plugin",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "helm",
+              "kubernetes",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -406,12 +675,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm Distribution plugin is is a set of utilities and Helm Plugin for making offline work with Helm Charts easier. It is meant to be used for creating reproducible and relocatable packages for Helm Charts that can be moved around registries without hassles. This is particularly useful for distributing Helm Charts into airgapped environments.",
+            "homepage": null,
             "id": 671151851,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-22T09:04:03Z",
+            "open_issues": 11,
             "owner": "vmware-labs",
             "repo": "distribution-tooling-for-helm",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "helm",
+              "helm-charts",
+              "helm-plugin",
+              "helm-plugins"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -422,12 +701,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allows you to manage configuration and secrets from multiple provider while masking the secrets at the deployment",
+            "homepage": null,
             "id": 465266495,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-14T17:37:27Z",
+            "open_issues": 1,
             "owner": "tellerops",
             "repo": "helm-teller",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "deployment",
+              "go",
+              "golang",
+              "helm",
+              "helm-plugin",
+              "kubernetes",
+              "secret-management",
+              "secrets"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -438,12 +731,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A helm plugin for managing chart starters.",
+            "homepage": null,
             "id": 200671081,
             "language": "Shell",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-02T18:05:49Z",
+            "open_issues": 3,
             "owner": "salesforce",
             "repo": "helm-starter",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "helm",
+              "helm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -454,12 +755,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 862969066,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T22:35:47Z",
+            "open_issues": 13,
             "owner": "meshery-extensions",
             "repo": "helm-kanvas-snapshot",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "architecture-diagram",
+              "cncf",
+              "cncf-shapes",
+              "hacktoberfest",
+              "helm",
+              "kanvas",
+              "kubernetes",
+              "layer5",
+              "meshery",
+              "solution-architecture",
+              "support-community",
+              "topology"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -470,12 +789,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm plugin to run Tiller as a local daemon",
+            "homepage": null,
             "id": 122268515,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2018-09-11T02:54:39Z",
+            "open_issues": 0,
             "owner": "adamreese",
             "repo": "helm-local",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "helm",
+              "helm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -486,12 +813,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm plugin to show current environment",
+            "homepage": null,
             "id": 86370390,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-01-19T18:44:27Z",
+            "open_issues": 1,
             "owner": "adamreese",
             "repo": "helm-env",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "helm",
+              "helm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -502,12 +837,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm plugin to destroy all releases",
+            "homepage": null,
             "id": 86369574,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2018-02-27T06:01:11Z",
+            "open_issues": 0,
             "owner": "adamreese",
             "repo": "helm-nuke",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "helm",
+              "helm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -518,12 +861,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm plugin for install charts from Github Releases",
+            "homepage": null,
             "id": 288551084,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-25T19:11:45Z",
+            "open_issues": 1,
             "owner": "web-seven",
             "repo": "helm-github",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "charts",
+              "github",
+              "helm",
+              "helm-github"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -534,12 +887,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm plugin to show the latest release",
+            "homepage": null,
             "id": 86369334,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2018-08-02T12:55:17Z",
+            "open_issues": 1,
             "owner": "adamreese",
             "repo": "helm-last",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "helm",
+              "helm-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -550,12 +911,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm Plugin that allows you to manage private helm repositories on blob storage(Azure Blob, GCS, S3)",
+            "homepage": null,
             "id": 242688921,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-02-09T10:18:51Z",
+            "open_issues": 0,
             "owner": "C123R",
             "repo": "helm-blob",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "azure-blob-storage",
+              "cncf",
+              "gcs",
+              "helm",
+              "helm-chart",
+              "helm-plugins",
+              "kubernetes",
+              "s3"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         }
@@ -572,12 +947,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deploy Kubernetes Helm Charts",
+            "homepage": null,
             "id": 74499101,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-04-27T03:45:59Z",
+            "open_issues": 527,
             "owner": "roboll",
             "repo": "helmfile",
-            "stars": 4033
+            "stars": 4033,
+            "topics": [
+              "chart",
+              "helm",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -588,12 +972,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event-driven scripting for Kubernetes",
+            "homepage": "https://brigade.sh/",
             "id": 108049853,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-07T03:41:43Z",
+            "open_issues": 31,
             "owner": "brigadecore",
             "repo": "brigade",
-            "stars": 2416
+            "stars": 2416,
+            "topics": [
+              "cncf",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -604,12 +996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for automatically generating markdown documentation for helm charts",
+            "homepage": null,
             "id": 147009717,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-22T09:25:43Z",
+            "open_issues": 97,
             "owner": "norwoodj",
             "repo": "helm-docs",
-            "stars": 1762
+            "stars": 1762,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -620,12 +1017,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creates Helm chart from Kubernetes yaml",
+            "homepage": null,
             "id": 391663444,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-07T07:38:16Z",
+            "open_issues": 60,
             "owner": "arttor",
             "repo": "helmify",
-            "stars": 1743
+            "stars": 1743,
+            "topics": [
+              "golang",
+              "helm",
+              "k8s",
+              "kubebuilder",
+              "kubernetes",
+              "kubernetes-operator",
+              "kustomize",
+              "operator-sdk"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -636,12 +1047,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helm Charts as Code",
+            "homepage": null,
             "id": 109309047,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:38:36Z",
+            "open_issues": 1,
             "owner": "mkubaczyk",
             "repo": "helmsman",
-            "stars": 1495
+            "stars": 1495,
+            "topics": [
+              "git-ops",
+              "helm",
+              "helm-charts",
+              "helm-charts-as-code",
+              "helmsman",
+              "k8s",
+              "k8s-applications",
+              "k8s-cluster",
+              "kubernetes",
+              "protect-namespaces"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -652,12 +1079,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "⚠️(OBSOLETE) Search and discovery UI for Helm Chart repositories",
+            "homepage": null,
             "id": 66493660,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-06-21T17:29:36Z",
+            "open_issues": 119,
             "owner": "helm",
             "repo": "monocular",
-            "stars": 1408
+            "stars": 1408,
+            "topics": [
+              "chart",
+              "charts-repositories",
+              "docker",
+              "helm",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -668,12 +1106,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hosting Helm Charts via GitHub Pages and Releases",
+            "homepage": null,
             "id": 144605653,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T09:27:40Z",
+            "open_issues": 66,
             "owner": "helm",
             "repo": "chart-releaser",
-            "stars": 784
+            "stars": 784,
+            "topics": [
+              "charts",
+              "helm",
+              "hosting",
+              "kubernetes",
+              "repository"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -684,12 +1133,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A better way to deploy Kubernetes Helm charts",
+            "homepage": "https://www.replicated.com/ship",
             "id": 126047712,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-20T19:55:30Z",
+            "open_issues": 88,
             "owner": "replicatedhq",
             "repo": "ship",
-            "stars": 635
+            "stars": 635,
+            "topics": [
+              "docker",
+              "gitops",
+              "go",
+              "helm",
+              "kubernetes",
+              "kustomize"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -700,12 +1161,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declaratively install and manage multiple Helm chart releases",
+            "homepage": "https://fairwinds.com",
             "id": 159374996,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T08:12:37Z",
+            "open_issues": 12,
             "owner": "FairwindsOps",
             "repo": "reckoner",
-            "stars": 354
+            "stars": 354,
+            "topics": [
+              "declarative",
+              "fairwinds-official",
+              "helm",
+              "helm-chart",
+              "kubernetes",
+              "kubernetes-tools",
+              "operations"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -716,12 +1190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands.",
+            "homepage": null,
             "id": 848427756,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T20:15:22Z",
+            "open_issues": 0,
             "owner": "Telemaco019",
             "repo": "kubesafe",
-            "stars": 333
+            "stars": 333,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -732,12 +1211,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto generate READMEs for Helm Charts",
+            "homepage": "https://bitnami.com",
             "id": 342210188,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T10:37:28Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:12:40Z",
+            "open_issues": 2,
             "owner": "bitnami",
             "repo": "readme-generator-for-helm",
-            "stars": 311
+            "stars": 311,
+            "topics": [
+              "charts",
+              "helm",
+              "readme",
+              "readme-generator"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -748,12 +1237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+            "homepage": "https://console.kubestellar.io",
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T18:07:57Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:30:02Z",
+            "open_issues": 13,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -764,12 +1258,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Istio starter template for Helm",
+            "homepage": null,
             "id": 200676083,
             "language": "Shell",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-02T18:05:54Z",
+            "open_issues": 3,
             "owner": "salesforce",
             "repo": "helm-starter-istio",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "helm",
+              "helm-starters"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -780,12 +1282,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Service Broker which exposes Helm charts as Service Classes in the Service Catalog",
+            "homepage": "https://kyma-project.io/docs/components/helm-broker",
             "id": 200802308,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-13T07:19:10Z",
+            "open_issues": 0,
             "owner": "SAP-archive",
             "repo": "helm-broker",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -796,12 +1303,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple web application to inspect, show diff, and render your helm chart",
+            "homepage": null,
             "id": 296314210,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-10-23T02:13:56Z",
+            "open_issues": 2,
             "owner": "ecojuntak",
             "repo": "chart-viewer",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "chart-viewer",
+              "devops-tools",
+              "helm-chart",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -812,12 +1329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1194888560,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-01T14:53:58Z",
+            "open_issues": 3,
             "owner": "kube-foundry",
             "repo": "kube-foundry",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -828,12 +1350,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static analysis from configs → Kubernetes NetworkPolicies in seconds",
+            "homepage": null,
             "id": 1161232058,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-06T07:36:28Z",
+            "open_issues": 0,
             "owner": "dormstern",
             "repo": "segspec",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "cloud-native",
+              "devsecops",
+              "golang",
+              "helm",
+              "k8s",
+              "k8s-security",
+              "kubernetes",
+              "microsegmentation",
+              "networking",
+              "networkpolicy",
+              "platform-engineering",
+              "policy-as-code",
+              "shift-left-security"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -844,12 +1385,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agent skills for deploying applications to Kubernetes with Qovery. Works with OpenCode, Claude Code, and any agent supporting SKILL.md.",
+            "homepage": null,
             "id": 1215089312,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-27T16:50:45Z",
+            "open_issues": 3,
             "owner": "Qovery",
             "repo": "qovery-skills",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ai-agent",
+              "claude-code",
+              "deployment",
+              "devops",
+              "infrastructure-as-code",
+              "kubernetes",
+              "opencode",
+              "qovery",
+              "skill",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         }
@@ -866,12 +1423,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool for linting and testing Helm charts",
+            "homepage": null,
             "id": 112638589,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T23:03:37Z",
+            "open_issues": 6,
             "owner": "helm",
             "repo": "chart-testing",
-            "stars": 1639
+            "stars": 1639,
+            "topics": [
+              "docker",
+              "golang",
+              "helm",
+              "kubernetes",
+              "linting",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -882,12 +1451,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.",
+            "homepage": null,
             "id": 112146910,
             "language": "Go",
-            "last_commit": "2026-08-24T22:03:54Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:03:36Z",
+            "open_issues": 85,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1388
+            "stars": 1388,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2025",
+              "helm",
+              "helm-chart",
+              "helm-plugin",
+              "kubernetes",
+              "testing",
+              "unittest"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         },
@@ -898,12 +1481,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Snapshot testing tool for Helm charts",
+            "homepage": null,
             "id": 667685098,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T22:18:17Z",
+            "open_issues": 15,
             "owner": "jlandowner",
             "repo": "helm-chartsnap",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "helm",
+              "helm-charts",
+              "helm-plugin",
+              "helm-plugins",
+              "kubernetes",
+              "snapshot",
+              "snapshot-testing"
+            ]
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
         }
@@ -912,15 +1508,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:08:15.961Z",
+    "last_updated": "2026-08-29T04:35:08.783Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
+      "homepage": null,
       "id": 132810604,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-05-16T21:05:30Z",
+      "open_issues": 8,
       "owner": "cdwv",
       "repo": "awesome-helm",
-      "stars": 1111
+      "stars": 1111,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "helm",
+        "helm-charts",
+        "k8s",
+        "kuberenetes"
+      ]
     },
     "original_repository_sha": "cf8b80c6247790ab56366cc1b78a3216082869e4",
     "enhanced_repository": "enhansome/enhansome-helm",
