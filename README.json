@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15402,
+            "stars": 15401,
             "topics": [
               "charts",
               "helm",
@@ -44,7 +44,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15402,
+            "stars": 15401,
             "topics": [
               "charts",
               "helm",
@@ -106,7 +106,7 @@
             "open_issues": 76,
             "owner": "elastic",
             "repo": "helm-charts",
-            "stars": 1915,
+            "stars": 1914,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -144,7 +144,7 @@
             "id": 87913000,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T16:03:52Z",
+            "last_commit": "2026-09-12T02:39:47Z",
             "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-helm",
@@ -197,8 +197,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T05:47:13Z",
-            "open_issues": 166,
+            "last_commit": "2026-09-12T08:56:00Z",
+            "open_issues": 149,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 133,
@@ -335,11 +335,11 @@
             "id": 83623770,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T05:03:54Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-11T23:43:36Z",
+            "open_issues": 52,
             "owner": "databus23",
             "repo": "helm-diff",
-            "stars": 3490,
+            "stars": 3492,
             "topics": [
               "charts",
               "helm",
@@ -360,7 +360,7 @@
             "id": 156066420,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T06:15:42Z",
+            "last_commit": "2026-09-11T18:28:52Z",
             "open_issues": 1,
             "owner": "jkroepke",
             "repo": "helm-secrets",
@@ -402,8 +402,8 @@
             "id": 112146910,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-02T14:24:23Z",
-            "open_issues": 86,
+            "last_commit": "2026-09-11T22:26:17Z",
+            "open_issues": 83,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
             "stars": 1391,
@@ -956,7 +956,7 @@
             "open_issues": 527,
             "owner": "roboll",
             "repo": "helmfile",
-            "stars": 4033,
+            "stars": 4032,
             "topics": [
               "chart",
               "helm",
@@ -981,7 +981,7 @@
             "open_issues": 31,
             "owner": "brigadecore",
             "repo": "brigade",
-            "stars": 2418,
+            "stars": 2419,
             "topics": [
               "cncf",
               "kubernetes"
@@ -1056,7 +1056,7 @@
             "open_issues": 2,
             "owner": "mkubaczyk",
             "repo": "helmsman",
-            "stars": 1493,
+            "stars": 1492,
             "topics": [
               "git-ops",
               "helm",
@@ -1199,7 +1199,7 @@
             "open_issues": 0,
             "owner": "Telemaco019",
             "repo": "kubesafe",
-            "stars": 333,
+            "stars": 332,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1242,8 +1242,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T05:47:13Z",
-            "open_issues": 166,
+            "last_commit": "2026-09-12T08:56:00Z",
+            "open_issues": 149,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 133,
@@ -1312,7 +1312,7 @@
             "open_issues": 3,
             "owner": "kube-foundry",
             "repo": "kube-foundry",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1456,8 +1456,8 @@
             "id": 112146910,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-02T14:24:23Z",
-            "open_issues": 86,
+            "last_commit": "2026-09-11T22:26:17Z",
+            "open_issues": 83,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
             "stars": 1391,
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T10:30:54.906Z",
+    "last_updated": "2026-09-12T09:59:10.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
