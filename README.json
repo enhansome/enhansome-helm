@@ -197,11 +197,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T08:56:00Z",
-            "open_issues": 149,
+            "last_commit": "2026-09-13T10:09:08Z",
+            "open_issues": 142,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 133,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -406,7 +406,7 @@
             "open_issues": 83,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1391,
+            "stars": 1390,
             "topics": [
               "hacktoberfest",
               "hacktoberfest2025",
@@ -1052,8 +1052,8 @@
             "id": 109309047,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-09T01:38:09Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-13T08:07:30Z",
+            "open_issues": 1,
             "owner": "mkubaczyk",
             "repo": "helmsman",
             "stars": 1492,
@@ -1166,7 +1166,7 @@
             "id": 159374996,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T15:56:10Z",
+            "last_commit": "2026-09-12T11:55:49Z",
             "open_issues": 15,
             "owner": "FairwindsOps",
             "repo": "reckoner",
@@ -1242,11 +1242,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T08:56:00Z",
-            "open_issues": 149,
+            "last_commit": "2026-09-13T10:09:08Z",
+            "open_issues": 142,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 133,
+            "stars": 135,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1312,7 +1312,7 @@
             "open_issues": 3,
             "owner": "kube-foundry",
             "repo": "kube-foundry",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1460,7 +1460,7 @@
             "open_issues": 83,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1391,
+            "stars": 1390,
             "topics": [
               "hacktoberfest",
               "hacktoberfest2025",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:59:10.813Z",
+    "last_updated": "2026-09-13T11:00:17.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
