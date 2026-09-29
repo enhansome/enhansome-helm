@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15399,
+            "stars": 15400,
             "topics": [
               "charts",
               "helm",
@@ -44,7 +44,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15399,
+            "stars": 15400,
             "topics": [
               "charts",
               "helm",
@@ -197,11 +197,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T05:59:14Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-29T05:49:27Z",
+            "open_issues": 7,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -406,7 +406,7 @@
             "open_issues": 87,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1394,
+            "stars": 1395,
             "topics": [
               "hacktoberfest",
               "hacktoberfest2025",
@@ -1026,7 +1026,7 @@
             "open_issues": 60,
             "owner": "arttor",
             "repo": "helmify",
-            "stars": 1745,
+            "stars": 1744,
             "topics": [
               "golang",
               "helm",
@@ -1242,11 +1242,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T05:59:14Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-29T05:49:27Z",
+            "open_issues": 7,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1460,7 +1460,7 @@
             "open_issues": 87,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1394,
+            "stars": 1395,
             "topics": [
               "hacktoberfest",
               "hacktoberfest2025",
@@ -1486,8 +1486,8 @@
             "id": 667685098,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-25T03:11:26Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-28T22:27:05Z",
+            "open_issues": 15,
             "owner": "jlandowner",
             "repo": "helm-chartsnap",
             "stars": 111,
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T12:46:00.247Z",
+    "last_updated": "2026-09-29T12:01:33.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
