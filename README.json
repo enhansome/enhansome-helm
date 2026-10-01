@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15400,
+            "stars": 15399,
             "topics": [
               "charts",
               "helm",
@@ -44,7 +44,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15400,
+            "stars": 15399,
             "topics": [
               "charts",
               "helm",
@@ -144,11 +144,11 @@
             "id": 87913000,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T23:15:52Z",
+            "last_commit": "2026-09-30T20:45:36Z",
             "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-helm",
-            "stars": 578,
+            "stars": 577,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -197,11 +197,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T11:01:18Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-01T12:04:58Z",
+            "open_issues": 9,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 141,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -335,11 +335,11 @@
             "id": 83623770,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T01:33:01Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-01T02:41:54Z",
+            "open_issues": 49,
             "owner": "databus23",
             "repo": "helm-diff",
-            "stars": 3499,
+            "stars": 3500,
             "topics": [
               "charts",
               "helm",
@@ -360,8 +360,8 @@
             "id": 156066420,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T21:56:01Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-01T07:23:18Z",
+            "open_issues": 3,
             "owner": "jkroepke",
             "repo": "helm-secrets",
             "stars": 2032,
@@ -406,7 +406,7 @@
             "open_issues": 87,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1395,
+            "stars": 1396,
             "topics": [
               "hacktoberfest",
               "hacktoberfest2025",
@@ -1166,7 +1166,7 @@
             "id": 159374996,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T02:45:41Z",
+            "last_commit": "2026-10-01T03:19:40Z",
             "open_issues": 10,
             "owner": "FairwindsOps",
             "repo": "reckoner",
@@ -1242,11 +1242,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T11:01:18Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-01T12:04:58Z",
+            "open_issues": 9,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 141,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1460,7 +1460,7 @@
             "open_issues": 87,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1395,
+            "stars": 1396,
             "topics": [
               "hacktoberfest",
               "hacktoberfest2025",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T11:50:13.242Z",
+    "last_updated": "2026-10-01T12:19:40.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
@@ -1520,7 +1520,7 @@
       "open_issues": 10,
       "owner": "cdwv",
       "repo": "awesome-helm",
-      "stars": 1116,
+      "stars": 1117,
       "topics": [
         "awesome",
         "awesome-list",
