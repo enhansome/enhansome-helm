@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Kubernetes Helm charts stable repo",
-          "description": null,
+          "description": "helm/charts",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -31,7 +31,7 @@
         {
           "node_type": "item",
           "title": "Kubernetes Helm charts incubating repo",
-          "description": null,
+          "description": "helm/charts",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -144,7 +144,7 @@
             "id": 87913000,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T20:47:11Z",
+            "last_commit": "2026-10-02T16:28:47Z",
             "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-helm",
@@ -197,8 +197,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:55:25Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T04:44:11Z",
+            "open_issues": 4,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 140,
@@ -402,8 +402,8 @@
             "id": 112146910,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-01T22:03:39Z",
-            "open_issues": 83,
+            "last_commit": "2026-10-02T22:30:14Z",
+            "open_issues": 82,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
             "stars": 1396,
@@ -1005,7 +1005,7 @@
             "open_issues": 100,
             "owner": "norwoodj",
             "repo": "helm-docs",
-            "stars": 1767,
+            "stars": 1764,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1023,10 +1023,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-05-07T07:38:16Z",
-            "open_issues": 62,
+            "open_issues": 61,
             "owner": "arttor",
             "repo": "helmify",
-            "stars": 1744,
+            "stars": 1745,
             "topics": [
               "golang",
               "helm",
@@ -1242,8 +1242,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:55:25Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T04:44:11Z",
+            "open_issues": 4,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 140,
@@ -1432,7 +1432,7 @@
             "open_issues": 2,
             "owner": "helm",
             "repo": "chart-testing",
-            "stars": 1645,
+            "stars": 1644,
             "topics": [
               "docker",
               "golang",
@@ -1456,8 +1456,8 @@
             "id": 112146910,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-01T22:03:39Z",
-            "open_issues": 83,
+            "last_commit": "2026-10-02T22:30:14Z",
+            "open_issues": 82,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
             "stars": 1396,
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:47:42.000Z",
+    "last_updated": "2026-10-03T04:47:33.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
@@ -1520,7 +1520,7 @@
       "open_issues": 10,
       "owner": "cdwv",
       "repo": "awesome-helm",
-      "stars": 1117,
+      "stars": 1116,
       "topics": [
         "awesome",
         "awesome-list",
