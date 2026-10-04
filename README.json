@@ -127,7 +127,7 @@
             "open_issues": 69,
             "owner": "goharbor",
             "repo": "harbor-helm",
-            "stars": 1523,
+            "stars": 1524,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -197,11 +197,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T10:39:05Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-04T07:30:16Z",
+            "open_issues": 4,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -222,7 +222,7 @@
             "open_issues": 6,
             "owner": "cdwv",
             "repo": "bitwarden-k8s",
-            "stars": 96,
+            "stars": 95,
             "topics": [
               "bitwarden",
               "helm",
@@ -335,8 +335,8 @@
             "id": 83623770,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T02:41:54Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-04T01:20:17Z",
+            "open_issues": 48,
             "owner": "databus23",
             "repo": "helm-diff",
             "stars": 3500,
@@ -406,7 +406,7 @@
             "open_issues": 71,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1396,
+            "stars": 1397,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-2026",
@@ -1056,7 +1056,7 @@
             "open_issues": 1,
             "owner": "mkubaczyk",
             "repo": "helmsman",
-            "stars": 1498,
+            "stars": 1499,
             "topics": [
               "git-ops",
               "helm",
@@ -1242,11 +1242,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T10:39:05Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-04T07:30:16Z",
+            "open_issues": 4,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1312,7 +1312,7 @@
             "open_issues": 3,
             "owner": "kube-foundry",
             "repo": "kube-foundry",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1460,7 +1460,7 @@
             "open_issues": 71,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1396,
+            "stars": 1397,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-2026",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:01:14.998Z",
+    "last_updated": "2026-10-04T11:42:46.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
@@ -1520,7 +1520,7 @@
       "open_issues": 10,
       "owner": "cdwv",
       "repo": "awesome-helm",
-      "stars": 1116,
+      "stars": 1117,
       "topics": [
         "awesome",
         "awesome-list",
