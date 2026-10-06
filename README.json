@@ -197,8 +197,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:42:15Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-06T12:30:37Z",
+            "open_issues": 5,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 141,
@@ -1242,8 +1242,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:42:15Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-06T12:30:37Z",
+            "open_issues": 5,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 141,
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:38:52.805Z",
+    "last_updated": "2026-10-06T12:39:54.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
