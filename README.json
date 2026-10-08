@@ -127,7 +127,7 @@
             "open_issues": 71,
             "owner": "goharbor",
             "repo": "harbor-helm",
-            "stars": 1524,
+            "stars": 1525,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -144,7 +144,7 @@
             "id": 87913000,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T22:43:50Z",
+            "last_commit": "2026-10-07T14:36:18Z",
             "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-helm",
@@ -197,11 +197,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T10:27:43Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-08T12:17:07Z",
+            "open_issues": 8,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 141,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -335,8 +335,8 @@
             "id": 83623770,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T01:20:17Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-08T07:56:42Z",
+            "open_issues": 47,
             "owner": "databus23",
             "repo": "helm-diff",
             "stars": 3502,
@@ -360,8 +360,8 @@
             "id": 156066420,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T15:23:21Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-07T19:43:29Z",
+            "open_issues": 2,
             "owner": "jkroepke",
             "repo": "helm-secrets",
             "stars": 2033,
@@ -403,10 +403,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-05T22:05:05Z",
-            "open_issues": 75,
+            "open_issues": 74,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1400,
+            "stars": 1401,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-2026",
@@ -494,7 +494,7 @@
             "open_issues": 11,
             "owner": "dadav",
             "repo": "helm-schema",
-            "stars": 288,
+            "stars": 289,
             "topics": [
               "hacktoberfest",
               "helm",
@@ -515,7 +515,7 @@
             "id": 109006561,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-01T22:27:34Z",
+            "last_commit": "2026-10-07T20:17:44Z",
             "open_issues": 9,
             "owner": "hayorov",
             "repo": "helm-gcs",
@@ -684,7 +684,7 @@
             "open_issues": 12,
             "owner": "vmware-labs",
             "repo": "distribution-tooling-for-helm",
-            "stars": 110,
+            "stars": 109,
             "topics": [
               "helm",
               "helm-charts",
@@ -1005,7 +1005,7 @@
             "open_issues": 101,
             "owner": "norwoodj",
             "repo": "helm-docs",
-            "stars": 1765,
+            "stars": 1767,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1242,11 +1242,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T10:27:43Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-08T12:17:07Z",
+            "open_issues": 8,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 141,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1432,7 +1432,7 @@
             "open_issues": 3,
             "owner": "helm",
             "repo": "chart-testing",
-            "stars": 1644,
+            "stars": 1645,
             "topics": [
               "docker",
               "golang",
@@ -1457,10 +1457,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-05T22:05:05Z",
-            "open_issues": 75,
+            "open_issues": 74,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
-            "stars": 1400,
+            "stars": 1401,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-2026",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T12:33:15.223Z",
+    "last_updated": "2026-10-08T12:43:03.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
