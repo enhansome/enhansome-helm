@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15399,
+            "stars": 15398,
             "topics": [
               "charts",
               "helm",
@@ -44,7 +44,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15399,
+            "stars": 15398,
             "topics": [
               "charts",
               "helm",
@@ -127,7 +127,7 @@
             "open_issues": 70,
             "owner": "goharbor",
             "repo": "harbor-helm",
-            "stars": 1529,
+            "stars": 1531,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -144,7 +144,7 @@
             "id": 87913000,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T23:30:16Z",
+            "last_commit": "2026-10-17T10:12:41Z",
             "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-helm",
@@ -197,8 +197,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T09:57:21Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-18T05:44:57Z",
+            "open_issues": 12,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 144,
@@ -335,8 +335,8 @@
             "id": 83623770,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T07:14:05Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-18T01:15:36Z",
+            "open_issues": 45,
             "owner": "databus23",
             "repo": "helm-diff",
             "stars": 3504,
@@ -1199,7 +1199,7 @@
             "open_issues": 0,
             "owner": "Telemaco019",
             "repo": "kubesafe",
-            "stars": 339,
+            "stars": 344,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1242,8 +1242,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T09:57:21Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-18T05:44:57Z",
+            "open_issues": 12,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 144,
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T10:04:15.764Z",
+    "last_updated": "2026-10-18T10:17:39.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
