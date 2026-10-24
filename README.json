@@ -75,7 +75,7 @@
             "open_issues": 36,
             "owner": "zalando",
             "repo": "zalenium",
-            "stars": 2361,
+            "stars": 2360,
             "topics": [
               "browserstack",
               "docker",
@@ -127,7 +127,7 @@
             "open_issues": 71,
             "owner": "goharbor",
             "repo": "harbor-helm",
-            "stars": 1533,
+            "stars": 1532,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -165,7 +165,7 @@
             "id": 258341966,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T03:55:35Z",
+            "last_commit": "2026-10-24T05:23:40Z",
             "open_issues": 20,
             "owner": "Huseyinnurbaki",
             "repo": "mocktail",
@@ -197,11 +197,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T08:24:05Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-24T10:00:52Z",
+            "open_issues": 25,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -339,7 +339,7 @@
             "open_issues": 46,
             "owner": "databus23",
             "repo": "helm-diff",
-            "stars": 3510,
+            "stars": 3511,
             "topics": [
               "charts",
               "helm",
@@ -403,7 +403,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-19T22:03:29Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
             "stars": 1405,
@@ -981,7 +981,7 @@
             "open_issues": 31,
             "owner": "brigadecore",
             "repo": "brigade",
-            "stars": 2422,
+            "stars": 2421,
             "topics": [
               "cncf",
               "kubernetes"
@@ -1056,7 +1056,7 @@
             "open_issues": 0,
             "owner": "mkubaczyk",
             "repo": "helmsman",
-            "stars": 1496,
+            "stars": 1495,
             "topics": [
               "git-ops",
               "helm",
@@ -1088,7 +1088,7 @@
             "open_issues": 119,
             "owner": "helm",
             "repo": "monocular",
-            "stars": 1406,
+            "stars": 1405,
             "topics": [
               "chart",
               "charts-repositories",
@@ -1170,7 +1170,7 @@
             "open_issues": 16,
             "owner": "FairwindsOps",
             "repo": "reckoner",
-            "stars": 355,
+            "stars": 354,
             "topics": [
               "declarative",
               "fairwinds-official",
@@ -1242,11 +1242,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T08:24:05Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-24T10:00:52Z",
+            "open_issues": 25,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1291,7 +1291,7 @@
             "open_issues": 0,
             "owner": "SAP-archive",
             "repo": "helm-broker",
-            "stars": 46,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1457,7 +1457,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-19T22:03:29Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "helm-unittest",
             "repo": "helm-unittest",
             "stars": 1405,
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:56:12.742Z",
+    "last_updated": "2026-10-24T10:11:28.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
@@ -1517,7 +1517,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2026-05-16T21:05:30Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "cdwv",
       "repo": "awesome-helm",
       "stars": 1120,
