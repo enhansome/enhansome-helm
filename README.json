@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15398,
+            "stars": 15400,
             "topics": [
               "charts",
               "helm",
@@ -44,7 +44,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15398,
+            "stars": 15400,
             "topics": [
               "charts",
               "helm",
@@ -169,7 +169,7 @@
             "open_issues": 20,
             "owner": "Huseyinnurbaki",
             "repo": "mocktail",
-            "stars": 278,
+            "stars": 277,
             "topics": [
               "docker",
               "go",
@@ -197,8 +197,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T10:00:52Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-25T05:59:14Z",
+            "open_issues": 17,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 150,
@@ -339,7 +339,7 @@
             "open_issues": 46,
             "owner": "databus23",
             "repo": "helm-diff",
-            "stars": 3511,
+            "stars": 3510,
             "topics": [
               "charts",
               "helm",
@@ -360,8 +360,8 @@
             "id": 156066420,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T23:17:51Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-25T09:13:44Z",
+            "open_issues": 1,
             "owner": "jkroepke",
             "repo": "helm-secrets",
             "stars": 2034,
@@ -956,7 +956,7 @@
             "open_issues": 525,
             "owner": "roboll",
             "repo": "helmfile",
-            "stars": 4034,
+            "stars": 4033,
             "topics": [
               "chart",
               "helm",
@@ -1005,7 +1005,7 @@
             "open_issues": 102,
             "owner": "norwoodj",
             "repo": "helm-docs",
-            "stars": 1772,
+            "stars": 1773,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1111,7 +1111,7 @@
             "id": 144605653,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T09:01:05Z",
+            "last_commit": "2026-10-25T09:37:05Z",
             "open_issues": 16,
             "owner": "helm",
             "repo": "chart-releaser",
@@ -1242,8 +1242,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T10:00:52Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-25T05:59:14Z",
+            "open_issues": 17,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 150,
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T10:11:28.202Z",
+    "last_updated": "2026-10-25T10:36:35.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
