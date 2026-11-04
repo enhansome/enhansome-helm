@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15396,
+            "stars": 15397,
             "topics": [
               "charts",
               "helm",
@@ -44,7 +44,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15396,
+            "stars": 15397,
             "topics": [
               "charts",
               "helm",
@@ -127,7 +127,7 @@
             "open_issues": 76,
             "owner": "goharbor",
             "repo": "harbor-helm",
-            "stars": 1536,
+            "stars": 1537,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -144,7 +144,7 @@
             "id": 87913000,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T03:34:25Z",
+            "last_commit": "2026-11-03T23:18:39Z",
             "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-helm",
@@ -152,6 +152,38 @@
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Mocktail",
+          "description": "Helm chart for deploying the free, tiny mock api server Mocktail",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, 10.5MB, containerized, self-hosted mock server.",
+            "homepage": "https://getmocktail.com",
+            "id": 258341966,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-24T05:23:40Z",
+            "open_issues": 20,
+            "owner": "Huseyinnurbaki",
+            "repo": "mocktail",
+            "stars": 277,
+            "topics": [
+              "docker",
+              "go",
+              "gofiber",
+              "json-server",
+              "kubernetes",
+              "mock",
+              "mock-api",
+              "mock-data",
+              "mock-server",
+              "react"
+            ]
+          },
+          "first_seen": "2026-11-04T13:42:08.413Z"
         },
         {
           "node_type": "item",
@@ -165,8 +197,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T10:31:25Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-04T13:03:52Z",
+            "open_issues": 32,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 152,
@@ -307,7 +339,7 @@
             "open_issues": 51,
             "owner": "databus23",
             "repo": "helm-diff",
-            "stars": 3513,
+            "stars": 3514,
             "topics": [
               "charts",
               "helm",
@@ -483,7 +515,7 @@
             "id": 109006561,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-28T23:14:00Z",
+            "last_commit": "2026-11-03T23:16:59Z",
             "open_issues": 18,
             "owner": "hayorov",
             "repo": "helm-gcs",
@@ -910,6 +942,31 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Helmfile",
+          "description": "Helmfile is a declarative spec for deploying helm charts, supports flexible templating scenarios",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Deploy Kubernetes Helm Charts",
+            "homepage": null,
+            "id": 74499101,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2023-04-27T03:45:59Z",
+            "open_issues": 525,
+            "owner": "roboll",
+            "repo": "helmfile",
+            "stars": 4032,
+            "topics": [
+              "chart",
+              "helm",
+              "kubernetes"
+            ]
+          },
+          "first_seen": "2026-11-04T13:42:08.413Z"
+        },
+        {
+          "node_type": "item",
           "title": "Brigade",
           "description": "A tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster",
           "children": [],
@@ -1055,7 +1112,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-01T10:46:24Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "helm",
             "repo": "chart-releaser",
             "stars": 782,
@@ -1109,11 +1166,11 @@
             "id": 159374996,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T16:21:36Z",
+            "last_commit": "2026-11-04T10:11:00Z",
             "open_issues": 17,
             "owner": "FairwindsOps",
             "repo": "reckoner",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "declarative",
               "fairwinds-official",
@@ -1185,8 +1242,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T10:31:25Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-04T13:03:52Z",
+            "open_issues": 32,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 152,
@@ -1372,7 +1429,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T05:33:15Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "helm",
             "repo": "chart-testing",
             "stars": 1646,
@@ -1451,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T13:30:53.553Z",
+    "last_updated": "2026-11-04T13:42:08.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
