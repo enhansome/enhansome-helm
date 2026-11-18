@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15395,
+            "stars": 15394,
             "topics": [
               "charts",
               "helm",
@@ -44,7 +44,7 @@
             "open_issues": 0,
             "owner": "helm",
             "repo": "charts",
-            "stars": 15395,
+            "stars": 15394,
             "topics": [
               "charts",
               "helm",
@@ -127,7 +127,7 @@
             "open_issues": 86,
             "owner": "goharbor",
             "repo": "harbor-helm",
-            "stars": 1540,
+            "stars": 1539,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -144,7 +144,7 @@
             "id": 87913000,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T01:13:18Z",
+            "last_commit": "2026-11-17T23:28:40Z",
             "open_issues": 0,
             "owner": "openstack",
             "repo": "openstack-helm",
@@ -197,11 +197,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T05:47:09Z",
-            "open_issues": 77,
+            "last_commit": "2026-11-18T05:39:57Z",
+            "open_issues": 90,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 154,
+            "stars": 155,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -336,7 +336,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T01:32:43Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "databus23",
             "repo": "helm-diff",
             "stars": 3523,
@@ -364,7 +364,7 @@
             "open_issues": 1,
             "owner": "jkroepke",
             "repo": "helm-secrets",
-            "stars": 2040,
+            "stars": 2041,
             "topics": [
               "argocd",
               "decryption",
@@ -515,7 +515,7 @@
             "id": 109006561,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-16T19:10:23Z",
+            "last_commit": "2026-11-17T22:57:32Z",
             "open_issues": 19,
             "owner": "hayorov",
             "repo": "helm-gcs",
@@ -1166,11 +1166,11 @@
             "id": 159374996,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T00:08:59Z",
+            "last_commit": "2026-11-18T06:31:16Z",
             "open_issues": 16,
             "owner": "FairwindsOps",
             "repo": "reckoner",
-            "stars": 355,
+            "stars": 356,
             "topics": [
               "declarative",
               "fairwinds-official",
@@ -1242,11 +1242,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T05:47:09Z",
-            "open_issues": 77,
+            "last_commit": "2026-11-18T05:39:57Z",
+            "open_issues": 90,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 154,
+            "stars": 155,
             "topics": []
           },
           "first_seen": "2026-08-28T18:08:15.961Z"
@@ -1390,8 +1390,8 @@
             "id": 1215089312,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-11-17T14:11:10Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-18T05:34:03Z",
+            "open_issues": 6,
             "owner": "Qovery",
             "repo": "qovery-skills",
             "stars": 14,
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T15:26:00.932Z",
+    "last_updated": "2026-11-18T14:59:53.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
