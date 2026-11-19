@@ -45,10 +45,10 @@ These usually hold a single chart or a group of connected charts. Can be more up
 
 * [Zalenium](https://github.com/zalando/zalenium/tree/master/charts/zalenium) ⚠️ Archived - flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard
 * [Elastic](https://github.com/elastic/helm-charts/) ⚠️ Archived - Official helm charts for [Elatic.co](https://www.elastic.co/)'s open source products (ElasticSearch, Kibana & filebeat)
-* [Harbor](https://github.com/goharbor/harbor-helm) ⭐ 1,539 | 🐛 86 | 🌐 Mustache | 📅 2026-11-05 - Harbor is a container and Helm registry with built-in security
-* [OpenStack](https://github.com/openstack/openstack-helm) ⭐ 581 | 🐛 0 | 🌐 Shell | 📅 2026-11-17 - various charts by the OpenStack project
+* [Harbor](https://github.com/goharbor/harbor-helm) ⭐ 1,539 | 🐛 87 | 🌐 Mustache | 📅 2026-11-05 - Harbor is a container and Helm registry with built-in security
+* [OpenStack](https://github.com/openstack/openstack-helm) ⭐ 581 | 🐛 0 | 🌐 Shell | 📅 2026-11-19 - various charts by the OpenStack project
 * [Mocktail](https://github.com/Huseyinnurbaki/mocktail) ⭐ 278 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-24 - Helm chart for deploying the free, tiny mock api server Mocktail
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 90 | 🌐 TypeScript | 📅 2026-11-18 - AI-powered multi-cluster Kubernetes management console with built-in Helm chart for one-command deployment
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 94 | 🌐 TypeScript | 📅 2026-11-19 - AI-powered multi-cluster Kubernetes management console with built-in Helm chart for one-command deployment
 * [Bitwarden](https://github.com/cdwv/bitwarden-k8s) ⭐ 95 | 🐛 6 | 🌐 Mustache | 📅 2025-01-23 - Helm chart for deploying bitwarden-rs - unofficial Bitwarden-compatible server
 * [Lenses](https://github.com/Landoop/kafka-helm-charts) ⚠️ Archived - charts for Lenses, Apache Kafka, Kafka Connect and other components for data streaming and data integration
 * [Fn Project](https://github.com/fnproject/fn-helm) ⭐ 58 | 🐛 10 | 🌐 Smarty | 📅 2019-03-20 - Fn serverless platform charts
@@ -97,13 +97,13 @@ Helm-related tools
 * [Reckoner](https://github.com/FairwindsOps/reckoner) ⭐ 356 | 🐛 16 | 🌐 Go | 📅 2026-11-18 - Reckoner is a tool to simplify management and installation of multiple Helm chart releases
 * [Kubesafe](https://github.com/Telemaco019/kubesafe) ⭐ 345 | 🐛 0 | 🌐 Go | 📅 2026-08-25 - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands.
 * [Readme Generator](https://github.com/bitnami-labs/readme-generator-for-helm) ⭐ 313 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-09 - Autogenerate Helm Charts READMEs' tables based on values YAML file metadata.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 90 | 🌐 TypeScript | 📅 2026-11-18 - Multi-cluster Kubernetes dashboard with Helm chart deployment, deployed via its own Helm chart for easy installation
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 94 | 🌐 TypeScript | 📅 2026-11-19 - Multi-cluster Kubernetes dashboard with Helm chart deployment, deployed via its own Helm chart for easy installation
 * [Helm-Starter-Istio](https://github.com/salesforce/helm-starter-istio) ⭐ 92 | 🐛 3 | 🌐 Shell | 📅 2026-06-02 - A helm starter for creating [Istio](https://istio.io/) managed services
 * [Helm Broker](https://github.com/kyma-project/helm-broker) ⚠️ Archived - A Service Broker which exposes Helm charts as Service Classes in the [Service Catalog](https://svc-cat.io/)
 * [Kube Foundry](https://github.com/kube-foundry/kube-foundry) ⭐ 22 | 🐛 3 | 🌐 Go | 📅 2026-04-01 - Kubernetes operator that runs AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode) in sandboxed pods. Deploys via Helm chart.
 * [Chart Viewer](https://github.com/ecojuntak/chart-viewer) ⭐ 18 | 🐛 2 | 🌐 Go | 📅 2023-10-23 - Helps you inspect and compare chart template and also rendered manifest
 * [segspec](https://github.com/dormstern/segspec) ⭐ 16 | 🐛 0 | 🌐 Go | 📅 2026-05-06 - Extracts network dependencies from Helm charts and other config files, generates Kubernetes NetworkPolicies with evidence tracing
-* [Qovery](https://www.qovery.com/) - Enterprise Kubernetes management platform that natively deploys Helm charts from public/private repositories or Git repos. Includes Terraform provider, CLI, API, and [AI Agent Skill](https://github.com/Qovery/qovery-skills) ⭐ 14 | 🐛 6 | 🌐 Shell | 📅 2026-11-18 for AI-assisted deployment.
+* [Qovery](https://www.qovery.com/) - Enterprise Kubernetes management platform that natively deploys Helm charts from public/private repositories or Git repos. Includes Terraform provider, CLI, API, and [AI Agent Skill](https://github.com/Qovery/qovery-skills) ⭐ 14 | 🐛 6 | 🌐 Shell | 📅 2026-11-19 for AI-assisted deployment.
 * [Keel.sh](https://keel.sh) - Continuous delivery for Kubernetes - enhances Helm with auto upgrades and other cool features
 * [ChartMuseum](https://chartmuseum.com/) - ChartMuseum is an open-source, easy to deploy, Helm Chart Repository server.
 * [werf](https://werf.io/) - A CLI tool for implementing CI/CD best practices using an extended version of Helm under the hood for deployment
@@ -113,7 +113,7 @@ Helm-related tools
 
 Testing Helm charts
 
-* [`ct`, Official CLI for testing](https://github.com/helm/chart-testing) ⭐ 1,647 | 🐛 4 | 🌐 Go | 📅 2026-11-12 - CLI tool for linting and testing Helm charts.
+* [`ct`, Official CLI for testing](https://github.com/helm/chart-testing) ⭐ 1,647 | 🐛 5 | 🌐 Go | 📅 2026-11-18 - CLI tool for linting and testing Helm charts.
 * [helm-unittest](https://github.com/helm-unittest/helm-unittest) ⭐ 1,409 | 🐛 76 | 🌐 Go | 📅 2026-11-11 - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 * [helm-chartsnap](https://github.com/jlandowner/helm-chartsnap) ⭐ 113 | 🐛 16 | 🌐 Go | 📅 2026-11-09 - Snapshot testing tool for Helm charts. Allows you to compare the rendered output of a Helm chart against a snapshot.
 * [Helm Test](https://helm.sh/docs/topics/chart_tests/) - Helm test command runs tests for a release. Mainly validates if the resources are created and available.
@@ -147,4 +147,4 @@ Project is currently maintained, in our spare time, by [codewave.eu](https://cod
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
