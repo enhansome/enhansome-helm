@@ -46,9 +46,9 @@ These usually hold a single chart or a group of connected charts. Can be more up
 * [Zalenium](https://github.com/zalando/zalenium/tree/master/charts/zalenium) ⚠️ Archived - flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard
 * [Elastic](https://github.com/elastic/helm-charts/) ⚠️ Archived - Official helm charts for [Elatic.co](https://www.elastic.co/)'s open source products (ElasticSearch, Kibana & filebeat)
 * [Harbor](https://github.com/goharbor/harbor-helm) ⭐ 1,539 | 🐛 87 | 🌐 Mustache | 📅 2026-11-05 - Harbor is a container and Helm registry with built-in security
-* [OpenStack](https://github.com/openstack/openstack-helm) ⭐ 580 | 🐛 0 | 🌐 Shell | 📅 2026-11-20 - various charts by the OpenStack project
-* [Mocktail](https://github.com/Huseyinnurbaki/mocktail) ⭐ 278 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-24 - Helm chart for deploying the free, tiny mock api server Mocktail
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-20 - AI-powered multi-cluster Kubernetes management console with built-in Helm chart for one-command deployment
+* [OpenStack](https://github.com/openstack/openstack-helm) ⭐ 581 | 🐛 0 | 🌐 Shell | 📅 2026-11-20 - various charts by the OpenStack project
+* [Mocktail](https://github.com/Huseyinnurbaki/mocktail) ⭐ 279 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-24 - Helm chart for deploying the free, tiny mock api server Mocktail
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 98 | 🌐 TypeScript | 📅 2026-11-21 - AI-powered multi-cluster Kubernetes management console with built-in Helm chart for one-command deployment
 * [Bitwarden](https://github.com/cdwv/bitwarden-k8s) ⭐ 95 | 🐛 6 | 🌐 Mustache | 📅 2025-01-23 - Helm chart for deploying bitwarden-rs - unofficial Bitwarden-compatible server
 * [Lenses](https://github.com/Landoop/kafka-helm-charts) ⚠️ Archived - charts for Lenses, Apache Kafka, Kafka Connect and other components for data streaming and data integration
 * [Fn Project](https://github.com/fnproject/fn-helm) ⭐ 58 | 🐛 10 | 🌐 Smarty | 📅 2019-03-20 - Fn serverless platform charts
@@ -88,16 +88,16 @@ Helm-related tools
 
 * [Helmfile](https://github.com/roboll/helmfile) ⭐ 4,032 | 🐛 525 | 🌐 Go | 📅 2023-04-27 - Helmfile is a declarative spec for deploying helm charts, supports flexible templating scenarios
 * [Brigade](https://github.com/brigadecore/brigade) ⭐ 2,414 | 🐛 31 | 🌐 Go | 📅 2023-03-07 - A tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster
-* [Helm Docs](https://github.com/norwoodj/helm-docs) ⭐ 1,775 | 🐛 102 | 🌐 Go | 📅 2026-06-22 - Auto-generates documentation from helm charts into markdown files
-* [Helmify](https://github.com/arttor/helmify) ⭐ 1,744 | 🐛 61 | 🌐 Go | 📅 2026-05-07 - Generates a Helm chart from Kubernetes yamls
+* [Helm Docs](https://github.com/norwoodj/helm-docs) ⭐ 1,775 | 🐛 103 | 🌐 Go | 📅 2026-06-22 - Auto-generates documentation from helm charts into markdown files
+* [Helmify](https://github.com/arttor/helmify) ⭐ 1,743 | 🐛 61 | 🌐 Go | 📅 2026-05-07 - Generates a Helm chart from Kubernetes yamls
 * [Helmsman](https://github.com/Praqma/helmsman) ⭐ 1,495 | 🐛 3 | 🌐 Go | 📅 2026-11-15 - Helmsman provides a declarative way of installing charts, features terraform-like desired state file approach and security enhancements
 * [Monocular](https://github.com/helm/monocular) ⚠️ Archived - A web-based application that enables the search and discovery of charts from multiple Helm Chart repositories
 * [Chart Releaser](https://github.com/helm/chart-releaser) ⭐ 782 | 🐛 12 | 🌐 Go | 📅 2026-11-16 - Helps Turn GitHub Repositories into Helm Chart Repositories
 * [Ship](https://github.com/replicatedhq/ship) ⚠️ Archived - A tool that makes it easy to watch and apply updates to Helm charts and integrates [Kustomize](https://kustomize.io) patches and overlays
-* [Reckoner](https://github.com/FairwindsOps/reckoner) ⭐ 356 | 🐛 16 | 🌐 Go | 📅 2026-11-19 - Reckoner is a tool to simplify management and installation of multiple Helm chart releases
+* [Reckoner](https://github.com/FairwindsOps/reckoner) ⭐ 356 | 🐛 6 | 🌐 Go | 📅 2026-11-20 - Reckoner is a tool to simplify management and installation of multiple Helm chart releases
 * [Kubesafe](https://github.com/Telemaco019/kubesafe) ⭐ 345 | 🐛 0 | 🌐 Go | 📅 2026-08-25 - Safely manage multiple Kubernetes clusters by defining safe contexts and protected commands.
-* [Readme Generator](https://github.com/bitnami-labs/readme-generator-for-helm) ⭐ 314 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-20 - Autogenerate Helm Charts READMEs' tables based on values YAML file metadata.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-20 - Multi-cluster Kubernetes dashboard with Helm chart deployment, deployed via its own Helm chart for easy installation
+* [Readme Generator](https://github.com/bitnami-labs/readme-generator-for-helm) ⭐ 314 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-20 - Autogenerate Helm Charts READMEs' tables based on values YAML file metadata.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 155 | 🐛 98 | 🌐 TypeScript | 📅 2026-11-21 - Multi-cluster Kubernetes dashboard with Helm chart deployment, deployed via its own Helm chart for easy installation
 * [Helm-Starter-Istio](https://github.com/salesforce/helm-starter-istio) ⭐ 92 | 🐛 3 | 🌐 Shell | 📅 2026-06-02 - A helm starter for creating [Istio](https://istio.io/) managed services
 * [Helm Broker](https://github.com/kyma-project/helm-broker) ⚠️ Archived - A Service Broker which exposes Helm charts as Service Classes in the [Service Catalog](https://svc-cat.io/)
 * [Kube Foundry](https://github.com/kube-foundry/kube-foundry) ⭐ 22 | 🐛 3 | 🌐 Go | 📅 2026-04-01 - Kubernetes operator that runs AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode) in sandboxed pods. Deploys via Helm chart.
@@ -147,4 +147,4 @@ Project is currently maintained, in our spare time, by [codewave.eu](https://cod
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
